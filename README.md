@@ -1,8 +1,10 @@
-# Frontend Homework 19
+# Frontend Homework 29
 
-I have finished my nineteenth homework.
+I have finished my twenty-ninth homework.
 
-I did most of it during lessons.
+Learning testing with [Jest]: https://jestjs.io/
 
-There's probably a better way to do it, 
-but it works and looks the same, so I'm okay with it.
+Writing tests for coding challenges
+
+Challenges are taken from [Leetcode.com]: https://leetcode.com/
+
